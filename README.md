@@ -1,10 +1,10 @@
 # Poemario digital
 
-el dia de ayer tuve una de las angustias mas grande que he tenido el ultimo tiempo.
-volviendo de comprar parafina me atacó algo muy raro y hasta ahora no se que fue.
+*el dia de ayer tuve una de las angustias mas grande que he tenido el ultimo tiempo.*
+*volviendo de comprar parafina me atacó algo muy raro y hasta ahora no se que fue.*
 
-es muy basico pero este tipo de emociones -lamentablemente quizas- son las que potencian de manera mas expotencial mis impulsos negativos.
-me desperté hoy a las 12:00 con mucha hambre de hacer algo.
+*es muy basico pero este tipo de emociones -lamentablemente quizas- son las que potencian de manera mas expotencial mis impulsos negativos.
+me desperté hoy a las 12:00 con mucha hambre de hacer algo.*
 
 he aqui el resultado:
 
@@ -17,15 +17,14 @@ transcribir al codigo y a un sistema visual una serie de cartas y pensamientos a
 https://github.com/mortie/pixpeep
 
 ### Links
-
-https://editor.p5js.org/gaticamartin
-https://github.com/gaticamartin/me
-https://toolsaday.com/text-tools/text-to-binary
+- https://editor.p5js.org/gaticamartin
+- https://github.com/gaticamartin/me
+- https://toolsaday.com/text-tools/text-to-binary
 
 ## resultado
 
-https://editor.p5js.org/gaticamartin/sketches/PBH6EdImj
-fullscreen: https://editor.p5js.org/gaticamartin/full/PBH6EdImj
+- https://editor.p5js.org/gaticamartin/sketches/PBH6EdImj
+- fullscreen: https://editor.p5js.org/gaticamartin/full/PBH6EdImj
 
 ## proceso
 
@@ -896,3 +895,4 @@ function mousePressed() {
 ```
 [Poemario_2025_07_06_22_33_58.zip](https://github.com/user-attachments/files/21093383/Poemario_2025_07_06_22_33_58.zip)
 
+![image](https://github.com/user-attachments/assets/8c256aed-46a5-4aa0-aade-3a8724e8bb73)
