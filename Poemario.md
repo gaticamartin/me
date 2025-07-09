@@ -3,8 +3,8 @@
 *el dia de ayer tuve una de las angustias mas grande que he tenido el ultimo tiempo.*
 *volviendo de comprar parafina me atacó algo muy raro y hasta ahora no se que fue.*
 
-*es muy basico pero este tipo de emociones -lamentablemente quizas- son las que potencian de manera mas expotencial mis impulsos creativos*.
-me desperté hoy a las 12:00 con mucha hambre de hacer algo.*
+*es muy basico pero este tipo de emociones -lamentablemente quizas- son las que potencian de manera mas expotencial mis impulsos creativos**.
+*me desperté hoy a las 12:00 con mucha hambre de hacer algo.*
 
 he aqui el resultado:
 
